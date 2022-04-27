@@ -1,0 +1,2 @@
+# ganttchart
+Googleスプレッドシート上でガントチャート
